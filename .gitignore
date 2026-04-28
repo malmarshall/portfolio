@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix.lock
+
+# SQL databases
+*.db
+*.sqlite
+*.sqlite3
