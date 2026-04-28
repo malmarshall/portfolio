@@ -1,8 +1,8 @@
 # Project 1 - Customer Churn Prediction (General ML Project)
-## Dataset: Telco Customer Churn (Kaggle)
+#### Dataset: Telco Customer Churn (Kaggle)
 
 
-### Goal: Build a machine learning model that predicts whether a customer will churn based on demographics, services, and billing behavior. 
+## Goal: Build a machine learning model that predicts whether a customer will churn based on demographics, services, and billing behavior. 
 
 # Outline
 1. Problem definition
